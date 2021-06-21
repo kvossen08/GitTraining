@@ -11,3 +11,5 @@ adding a model:
 lm <- m*x + b
 
 TEST
+
+branch 2 test
