@@ -6,3 +6,12 @@ Adding a very weird for loop on the branch ext_feat
 for i in N {
 	print 1:10
 	}
+
+adding a model:
+lm <- m*x + b
+
+TEST
+
+branch 2 test
+
+branch 2 second test
