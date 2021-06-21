@@ -15,3 +15,5 @@ TEST
 branch 2 test
 
 branch 2 second test
+
+branch 2 third line
